@@ -15,7 +15,7 @@ Step 1. input "data.mat";  Step 2. run main_file "stream_classification_novel_cl
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Reference: Here.
+Reference: S.U. Din, J. Shao. "Exploiting evolving micro-clusters for data stream classification with emerging class detection". Inf. Sci., 507 (2020), pp. 404-420.
 
 -------------------------------------------------------------------------------------------------------------------------------
 ATTN: This code were developed by Salah Ud Din (salahuddin@std.uestc.edu.cn). For any problem and suggestment, please feel free to contact Mr. Salah Ud Din.
