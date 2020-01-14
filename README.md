@@ -1,4 +1,4 @@
-Exploiting evolving micro-clusters for data stream classification with emerging class detection
+Title: Exploiting evolving micro-clusters for data stream classification with emerging class detection
 -------------------------------------------------------------------------------------------------------------------------------
 Abstract
 -------------------------------------------------------------------------------------------------------------------------------
